@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: kidneyClassifier
+Version: 0.0.1
+Summary: A Deep Learning project for kidney disease classification using CNN
+Home-page: https://github.com/Durgaprasad003/kidney-disease-classification
+Author: Durgaprasad003
+Author-email: kelladurgaprasad92@gmail.com
+Project-URL: Bug Tracker, https://github.com/Durgaprasad003/kidney-disease-classification/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney Disease Classification Project
+
+This project uses CNN to classify kidney disease.
